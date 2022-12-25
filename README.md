@@ -107,3 +107,65 @@ public class AccountTransaction {
 ```
 
 ## Test with Swagger
+
+### Create Account
+
+#### Request
+![image](https://user-images.githubusercontent.com/84138772/209481347-01cb9f2d-cc2c-463c-923e-28ea1a11b1fe.png)
+
+#### Response
+![image](https://user-images.githubusercontent.com/84138772/209481360-4a903a27-8f27-4bdc-afd7-4cc5e41966fb.png)
+
+
+### Debit Account
+
+#### Request
+
+![image](https://user-images.githubusercontent.com/84138772/209481428-a83b2a2a-7cf5-45a9-8951-c24c911bc2dd.png)
+
+#### Response
+
+![image](https://user-images.githubusercontent.com/84138772/209481436-fc3e73db-228b-430a-95be-a157c63b2510.png)
+
+
+### Credit Account
+
+#### Request
+
+![image](https://user-images.githubusercontent.com/84138772/209481475-0a4a17e6-0e7f-431a-b6e2-4a77c5d18864.png)
+
+#### Response
+
+![image](https://user-images.githubusercontent.com/84138772/209481484-83420509-005c-4835-bf2a-91265de26e75.png)
+
+### EventStore Account
+
+![image](https://user-images.githubusercontent.com/84138772/209481518-9407e58d-ca03-4514-8af0-77bee294dc5e.png)
+
+### Get Account
+
+#### Request
+
+![image](https://user-images.githubusercontent.com/84138772/209481548-b3e9acce-adb4-42ce-b560-3fe1adf1f013.png)
+
+
+#### Response
+
+![image](https://user-images.githubusercontent.com/84138772/209481552-f0019f9b-6b7a-438d-89b2-a47fade1ac1a.png)
+
+### Get All Account
+
+#### Request
+
+![image](https://user-images.githubusercontent.com/84138772/209481562-fee38e72-fef4-4afe-929f-de8bd3edd4b3.png)
+
+
+#### Response
+
+![image](https://user-images.githubusercontent.com/84138772/209481574-81910cfc-3c6d-41de-9ebc-4d5eeb955537.png)
+
+
+
+
+
+
